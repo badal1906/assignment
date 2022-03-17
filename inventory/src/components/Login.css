@@ -1,0 +1,7 @@
+
+
+.name,.email,.password{
+    margin: auto;
+    justify-content: center;
+    width: 40%;
+}
